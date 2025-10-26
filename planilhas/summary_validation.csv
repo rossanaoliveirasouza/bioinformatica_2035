@@ -1,0 +1,41 @@
+validation,n,pct
+Cross-validation,4,0.08695652173913043
+No mention found,3,0.06521739130434782
+10-fold cross-validation,2,0.043478260869565216
+25-fold cross-validation,1,0.021739130434782608
+5-fold cross-validation,1,0.021739130434782608
+AUROC,1,0.021739130434782608
+Comparison with state-of-the-art,1,0.021739130434782608
+EHR validation,1,0.021739130434782608
+Evaluation on PrimeKG,1,0.021739130434782608
+Experimental,1,0.021739130434782608
+Experimental assays,1,0.021739130434782608
+Experimental validation,1,0.021739130434782608
+Experimental validation of drug candidates,1,0.021739130434782608
+FDA repurposed pairs,1,0.021739130434782608
+FDR control,1,0.021739130434782608
+In vitro validation of off-target predictions,1,0.021739130434782608
+Macro F1,1,0.021739130434782608
+Real-world validation (insurance claims),1,0.021739130434782608
+Statistical significance,1,0.021739130434782608
+Two-tiered cross-validation,1,0.021739130434782608
+Validation in independent datasets,1,0.021739130434782608
+Validation with clinical data,1,0.021739130434782608
+biological validation,1,0.021739130434782608
+case study,1,0.021739130434782608
+clinical evidence consistency,1,0.021739130434782608
+comparison with state-of-the-art,1,0.021739130434782608
+database validation,1,0.021739130434782608
+dose-response data,1,0.021739130434782608
+experimental validation,1,0.021739130434782608
+external validation,1,0.021739130434782608
+in vivo and clinical validation,1,0.021739130434782608
+in vivo murine model,1,0.021739130434782608
+independent datasets,1,0.021739130434782608
+literature and clinical record validation,1,0.021739130434782608
+molecular dynamics,1,0.021739130434782608
+mouse avatar,1,0.021739130434782608
+recapitulation of known phenotypes,1,0.021739130434782608
+state-of-the-art comparison,1,0.021739130434782608
+statistical significance,1,0.021739130434782608
+statistical tests,1,0.021739130434782608
